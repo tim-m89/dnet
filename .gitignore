@@ -1,0 +1,12 @@
+*.exe
+*.map
+*.pdb
+*.manifest
+*.obj
+*.swp
+*.suo
+*.user
+DnetImportGenerator/DnetImportGenerator/bin/
+DnetImportGenerator/DnetImportGenerator/obj/
+DnetImportGenerator/DnetImportGenerator/DnetImportGenerator.csproj.user
+

@@ -1,0 +1,24 @@
+TODO list for the .NET backend
+------------------------------
+
+- There is a lot of bugs in many areas. These need to be gathered and identifed to allow the process of fixing them to begin.
+
+- add test cases for mixes of nested classes and nested functions
+
+- implement enums (partially done, need to make it work with strings)
+
+- support complex type and expressions [deferred]
+
+- support the cent and unsigned cent types
+
+- support common properties
+
+- implement GotoStatement
+
+- plug-in custom allocator to improve compilation times
+
+- re-factor runtime support library (dnetlib.dll), and sign it
+
+- support dchar
+
+- support aa.rehash()
